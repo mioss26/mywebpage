@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>#@mcg@#</title>
+</head>
+<body>
+	
+	<main>
+		<h1>WELCOME TO MCG GALLERY</h1>
+	</main>
+<h2>Image</h2>
+	<p>The image is made and very pesonalized throught its perfect timing.  Its like a flash of a light from nothing <br>to something thats gives your eye an interactive picture of an object which is alive and powerful in its design.</p>
+<figure>
+	
+	
+	<img src="amethyst.png" width="400" alt="amethyst vector image" float: right>
+		<figcaption>the purple amethyst</figcaption>
+	<img src="heartreflect.png" width="400" alt="heart under light reflection" float: left>
+		<figcaption>reflection of a heart</figcaption>
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis saepe, consequatur officia non placeat quasi ipsum repudiandae. Reprehenderit, hic natus libero voluptatum molestiae officiis nemo tenetur eius mollitia ducimus nam.
+	</figure>
+
+</body>
+<hr>
+
+<h2>video clip</h2>
+<p>Photo animation are made of high resolution image using the different ideas and color combination,<br>
+with the use of the most powerful application, the image will give an inspiarational  design for everyone</p>
+	
+
+		<video src="photoAnimationGenerated(3).mov" width="400" controls></video>
+		<video src="mcgvideoclip.mov" width="400" controls></video>
+
+</html>
+
+
